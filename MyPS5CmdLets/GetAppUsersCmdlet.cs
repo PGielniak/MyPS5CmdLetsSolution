@@ -37,28 +37,28 @@ namespace MyPS5CmdLets
 
             appUsers.Add(new AppUsers
             {
-                Email="Patryk@Unit4.com",
+                Email="Patryk@U.com",
                 Id=0,
                 UserName="Patryk"
             });
 
             appUsers.Add(new AppUsers
             {
-                Email = "Amine@Unit4.com",
+                Email = "Piotr@U.com",
                 Id = 1,
-                UserName = "Amine"
+                UserName = "Piotr"
             });
 
             appUsers.Add(new AppUsers
             {
-                Email = "Dawid@Unit4.com",
+                Email = "Dawid@U.com",
                 Id = 2,
                 UserName = "Dawid"
             });
 
             appUsers.Add(new AppUsers
             {
-                Email = "Pawel@Unit4.com",
+                Email = "Pawel@U.com",
                 Id = 3,
                 UserName = "Pawel"
             });
